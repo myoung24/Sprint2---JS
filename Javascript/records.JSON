@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Matt",
+    "lastName": "Young",
+    "birthday": "04/24/1990",
+    "status": "Part-Time",
+    "startDate": "02/02/2016"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "birthday": "05/18/1985",
+    "status": "Full-Time",
+    "startDate": "01/01/2019"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "birthday": "01/01/1999",
+    "status": "Part-Time",
+    "startDate": "02/28/2020"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Robertson",
+    "birthday": "10/31/1980",
+    "status": "Part-Time",
+    "startDate": "04/20/2009"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Johnson",
+    "birthday": "06/06/1986",
+    "status": "Full-Time",
+    "startDate": "05/04/2015"
+  },
+  {
+    "firstName": "Don",
+    "lastName": "MacDonald",
+    "birthday": "03/13/1992",
+    "status": "Full-Time",
+    "startDate": "07/13/2012"
+  }
+]

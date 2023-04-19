@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(9, 18, 42);
+}
+
+main {
+    background-color: azure;
+    color: black;
+    padding: 30px;
+    width: 900px;
+    height: 800px;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11pt;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px black solid;
+    width: 130px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: larger;
+}
